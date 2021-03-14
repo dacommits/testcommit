@@ -72,7 +72,7 @@
                     </div>
 
                     <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
-                        All Rights Reserved. Ambrose Kyusya. Copyright 2021.
+                        All Rights Reserved. Ambrose Kyusya. Copyright ,2021.
                     </div>
                 </div>
         </div>
